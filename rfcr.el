@@ -1,4 +1,4 @@
-;;; rfcr.el - Interface to RFC repository at www.ietf.org
+;;; rfcr.el --- Interface to RFC repository at www.ietf.org
 
 ;; Copyright (C) 2001 Sami Salkosuo
 ;; Author: Sami Salkosuo 
